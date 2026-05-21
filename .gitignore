@@ -1,0 +1,12 @@
+# Arquivos e pastas temporárias do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Pastas de build/compilação (geradas automaticamente)
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
