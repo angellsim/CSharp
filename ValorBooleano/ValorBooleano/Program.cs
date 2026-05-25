@@ -1,4 +1,4 @@
-﻿namespace TiposTexto;
+namespace TiposTexto;
 
 class Program()
 {
